@@ -1,0 +1,3 @@
+{
+  "lib/**/*.ts": ["vitest run", "eslint --fix"]
+}
