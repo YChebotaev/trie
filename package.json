@@ -1,6 +1,6 @@
 {
   "name": "@ychebotaev/trie",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A prefix tree class",
   "main": "dist/trie.es.js",
   "files": [
